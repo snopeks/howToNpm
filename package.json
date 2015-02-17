@@ -1,0 +1,19 @@
+{
+  "name": "myFirstModule",
+  "version": "1.0.0",
+  "description": "learning how to make a module on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Stephanie Snopek",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "www.firstmoduleadventure.com"
+  }
+}
