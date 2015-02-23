@@ -1,5 +1,5 @@
 {
-  "name": "myFirstModule",
+  "name": "myfirstmodule",
   "version": "1.0.0",
   "description": "learning how to make a module on npm",
   "main": "index.js",
