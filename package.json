@@ -8,9 +8,7 @@
   },
   "author": "Stephanie Snopek",
   "license": "ISC",
-  "dependencies": {
-    "once": "^1.3.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
